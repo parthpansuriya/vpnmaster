@@ -199,12 +199,6 @@
                 <div class="item">
                     <img src="./img/screen6.jpg">
                 </div>
-                <div class="item">
-                    <img src="./img/screen7.jpg">
-                </div>
-                <div class="item">
-                    <img src="./img/screen8.jpg">
-                </div>
             </div>
         </div>
     </section>
