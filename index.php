@@ -109,8 +109,9 @@
             <div class="row no-gutters">
                 <div class="col-12 col-lg-6 banner-details text-center text-lg-left">
                     <div class="banner-inner-content">
-                        <h4 class="banner-heading"><span>File Manager</span> App</h4>
-                        <p class="banner-text"> File Manager is a powerful, simple interface file manager that supports multiple routine operations </p>                    <a href="https://play.google.com/store/apps/details?id=com.File.manager&hl=en_IN" target="_blank" class="btn banner-btn">Install</a>
+                        <h4 class="banner-heading"><span>VPN Master</span> - Free Unlimited VPN Proxy For Android App</h4>
+                        <p class="banner-text"> The best free & unlimited vpn tunnel for android to unblock sites, watch online video, bypass blocked apps, secure WiFi hotspots and browse privately & anonymously</p>                  
+                        <a href="https://play.google.com/store/apps/details?id=com.File.manager&hl=en_IN" target="_blank" class="btn banner-btn">Install</a>
                     </div>
                 </div>
                 <div class="col-12 col-lg-6 banner-img">
@@ -263,8 +264,8 @@
                 <div class="col-lg-4 wow fadeInRight">
                     <!--App deatil item-->
                     <div class="app-feature">
-                        <i class="fa fa-lock" aria-hidden="true"></i>
-                        <h4 class="mb-3">Websites</h4>
+                        <i class="fa fa-unlock-alt" aria-hidden="true"></i>
+                        <h4 class="mb-3">Unlock Websites</h4>
                         <p> VPN Proxy Server to Unblock Sites and Unblock Apps Choose a proxy server and you can unblock sites or unblock apps listed in various prohibition registries without any restrictions.</p>
                     </div>
                     <!--App deatil item-->
