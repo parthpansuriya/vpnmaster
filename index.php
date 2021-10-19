@@ -225,9 +225,9 @@
                 <div class="col-lg-4 mb-5 mb-lg-0 wow fadeInLeft">
                     <!--App deatil item-->
                     <div class="app-feature">
-                        <i class="fa fa-cogs" aria-hidden="true"></i>
-                        <h4 class="mb-3">Manage File</h4>
-                        <p>Manage your files like you do on your desktop or laptop using Multiple Select, Cut/Copy/Paste, Move, Create, Delete, Rename, Search, Share, Send, Hide, Create Shortcut, and Bookmark.</p>
+                        <i class="fa fa-wifi" aria-hidden="true"></i>
+                        <h4 class="mb-3">Shield WiFi Hotspot</h4>
+                        <p>Your VPN Internet traffic is completely encrypted. Using a VPN, your IP and location will be masked, VPN hides your IP address. Get full internet privacy, You can use Norton Secure VPN Proxy security</p>
                     </div>
                     <div class="app-feature">
                         <i class="fa fa-lock" aria-hidden="true"></i>
