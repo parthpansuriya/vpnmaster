@@ -270,7 +270,7 @@
                     <!--App deatil item-->
                     <div class="app-feature">
                         <i class="fa fa-globe" aria-hidden="true"></i>
-                        <h4 class="mb-3">country</h4>
+                        <h4 class="mb-3">Country</h4>
                         <p>Free VPN Connect for USA, India, Hong kong, Turkey, Sweden, Netherlands, Japan, Singapore, Canada, France, Brazil, Australia, Germany, UK, etc.</p>
                     </div>
                 </div>
