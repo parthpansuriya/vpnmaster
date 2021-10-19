@@ -212,8 +212,8 @@
             <div class="row">
                 <div class="col-md-12 text-center wow fadeIn app-details">
                     <div class="col-12 col-md-10 col-lg-8 offset-md-1 offset-lg-2" >
-                        <h3 class="heading text-center">Features</h3>
-                        <p class="detail-text text-center">File manager app is free, really easy to use with file organizer by category: Images, Music, Movies, Documents, Apps With this app manager for Android, you can easily manage your files and folders on device, manage local and remote/cloud storage.</p>
+                        <h3 class="heading text-center">VPN Proxy Speed Booster</h3>
+                        <p class="detail-text text-center">No speed limitation or bandwidth limitation! With Power VPN, download and stream videos without having to wait when it's buffering. It optimizes the network by auto-detecting and connecting the fastest and most stable DNS server to boost your web browsing speed when you unblock sites or unblock apps.</p>
                     </div>
                 </div>
             </div>
@@ -290,7 +290,7 @@
                 <div class="col-12 col-md-10 col-lg-8 offset-md-1 offset-lg-2 get-app-details text-center" >
                     <!-- <p class="sub-heading text-center">- Most flexible one page -</p> -->
                     <h3 class="heading text-center">Get Mobile App</h3>
-                    <p class="detail-text text-center">File manager is the best file explorer, file tool for android device manager with powerful features: Copy, cut, paste, rename, compress, transfer, download … </p>
+                    <p class="detail-text text-center">Now You Can Access Blocked Internet Content easily with just a click using Power VPN's Secure & Fast VPN Tunnels.</p>
                     <a href="https://play.google.com/store/apps/details?id=com.File.manager&hl=en_IN" target="_blank" class="get-app-btn"><i class="fa fa-android"></i>Google Play</a>
                 </div>
             </div>
@@ -304,7 +304,7 @@
             <div class="row">
                 <div class="col-12 d-flex justify-content-center">
                     <div class="footer-icons d-flex">
-                        <a target="_blank" href="https://play.google.com/store/apps/developer?id=FILE+MANAGER&hl=en_IN" class="wow fadeInUp"><i class="fa fa-copyright"></i> All Rights is reserved by <b style="margin-left: 5px;margin-top: 0px;"> FILE MANAGER</b></a>
+                        <a target="_blank" href="https://play.google.com/store/apps/developer?id=FILE+MANAGER&hl=en_IN" class="wow fadeInUp"><i class="fa fa-copyright"></i> All Rights is reserved by <b style="margin-left: 5px;margin-top: 0px;"> VPN Master</b></a>
                     </div>
                 </div>
             </div>
