@@ -264,14 +264,14 @@
                     <!--App deatil item-->
                     <div class="app-feature">
                         <i class="fa fa-lock" aria-hidden="true"></i>
-                        <h4 class="mb-3">File Encryption</h4>
-                        <p> AppLock has PIN and Pattern lock, choose your favorite style to lock apps. Pattern lock is more easier and faster to unlock. PIN lock has random keyboard. Supports convenient and powerful lock with fingerprint sensor.</p>
+                        <h4 class="mb-3">Websites</h4>
+                        <p> VPN Proxy Server to Unblock Sites and Unblock Apps Choose a proxy server and you can unblock sites or unblock apps listed in various prohibition registries without any restrictions.</p>
                     </div>
                     <!--App deatil item-->
                     <div class="app-feature">
-                        <i class="fa fa-exchange" aria-hidden="true"></i>
-                        <h4 class="mb-3">File Transfer</h4>
-                        <p>Data manager & data transfer: file sharing using various tools: “send anywhere”, email, sms, … & file transfer to PC via http file transfer protocol.</p>
+                        <i class="fa fa-globe" aria-hidden="true"></i>
+                        <h4 class="mb-3">country</h4>
+                        <p>Free VPN Connect for USA, India, Hong kong, Turkey, Sweden, Netherlands, Japan, Singapore, Canada, France, Brazil, Australia, Germany, UK, etc.</p>
                     </div>
                 </div>
 
@@ -290,7 +290,7 @@
                 <div class="col-12 col-md-10 col-lg-8 offset-md-1 offset-lg-2 get-app-details text-center" >
                     <!-- <p class="sub-heading text-center">- Most flexible one page -</p> -->
                     <h3 class="heading text-center">Get Mobile App</h3>
-                    <p class="detail-text text-center">Now You Can Access Blocked Internet Content easily with just a click using Power VPN's Secure & Fast VPN Tunnels.</p>
+                    <p class="detail-text text-center">Enjoy Power VPN (Free VPN Proxy) Service with unlimited speed and bandwidth for Lifetime. Now You Can Access Blocked Internet Content easily with just a click using Power VPN's Secure & Fast VPN Tunnels.</p>
                     <a href="https://play.google.com/store/apps/details?id=com.File.manager&hl=en_IN" target="_blank" class="get-app-btn"><i class="fa fa-android"></i>Google Play</a>
                 </div>
             </div>
