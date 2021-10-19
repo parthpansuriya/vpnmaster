@@ -230,9 +230,9 @@
                         <p>Manage your files like you do on your desktop or laptop using Multiple Select, Cut/Copy/Paste, Move, Create, Delete, Rename, Search, Share, Send, Hide, Create Shortcut, and Bookmark.</p>
                     </div>
                     <div class="app-feature">
-                        <i class="fa fa-paint-brush" aria-hidden="true"></i>
-                        <h4 class="mb-3">Theme Options</h4>
-                        <p>Customized your phone with awesome themes. Every day new themes with new lock screens, new icons, moded gadgets & more...</p>
+                        <i class="fa fa-lock" aria-hidden="true"></i>
+                        <h4 class="mb-3">Privacy Protection</h4>
+                        <p>Using VPN Master, your IP and location will be masked and your activities can no longer be tracked on the Internet. VPN Master service is your privacy guard and better than web proxy servers.</p>
                     </div>
                     <!--App deatil item-->
                 </div>
