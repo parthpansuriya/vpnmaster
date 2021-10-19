@@ -109,7 +109,7 @@
             <div class="row no-gutters">
                 <div class="col-12 col-lg-6 banner-details text-center text-lg-left">
                     <div class="banner-inner-content">
-                        <h4 class="banner-heading"><span>VPN Master</span> - Free Unlimited VPN Proxy For Android App</h4>
+                        <h4 class="banner-heading"><span>VPN Master</span> App</h4>
                         <p class="banner-text"> The best free & unlimited vpn tunnel for android to unblock sites, watch online video, bypass blocked apps, secure WiFi hotspots and browse privately & anonymously</p>                  
                         <a href="https://play.google.com/store/apps/details?id=com.File.manager&hl=en_IN" target="_blank" class="btn banner-btn">Install</a>
                     </div>
