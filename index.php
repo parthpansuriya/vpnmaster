@@ -240,24 +240,7 @@
                 <div class="col-lg-4 mb-5 mb-lg-0 wow fadeInUp">
                     <!--app Image-->
                     <div class="app-image">
-                        <img src="./img/iphone-img.png" alt="image">
-                        <div id="app-slider" class="owl-carousel owl-theme">
-                            <div class="item">
-                                <img src="./img/img1.jpg" alt="">
-                            </div>
-                            <div class="item">
-                                <img src="./img/img2.jpg" alt="">
-                            </div>
-                            <div class="item">
-                                <img src="./img/img3.jpg" alt="">
-                            </div>
-                            <div class="item">
-                                <img src="./img/img4.jpg" alt="">
-                            </div>
-                            <div class="item">
-                                <img src="./img/img5.jpg" alt="">
-                            </div>
-                        </div>
+                        <img src="./img/appicon.png" alt="image">
                     </div>
                 </div>
 
