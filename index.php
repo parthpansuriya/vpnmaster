@@ -130,7 +130,7 @@
                     <div class="service-card text-center wow fadeInLeft" data-wow-duration="1s">
                         <a href="#">
                             <div class="image-holder">
-                                <b style="font-size: 30px;">4M+</b>
+                                <b style="font-size: 30px;">100K+</b>
                             </div>
                             <h3 class="service-card-heading">Total Downloads</h3>
                         </a>
@@ -141,7 +141,7 @@
                     <div class="service-card text-center wow fadeInRight" data-wow-duration="1s">
                         <a href="#">
                             <div class="image-holder">
-                                <b style="font-size: 30px;">10K+</b>
+                                <b style="font-size: 30px;">1K+</b>
                             </div>
                             <h3 class="service-card-heading">Positive Reviews</h3>
                         </a>
@@ -151,7 +151,7 @@
                     <div class="service-card text-center wow fadeInLeft" data-wow-duration="1s">
                         <a href="#">
                             <div class="image-holder">
-                                <b style="font-size: 30px;">50K+</b>
+                                <b style="font-size: 30px;">10K+</b>
                             </div>
                             <h3 class="service-card-heading">Daily Visitors</h3>
                         </a>
@@ -161,7 +161,7 @@
                     <div class="service-card text-center wow fadeInRight" data-wow-duration="1s">
                         <a href="#">
                             <div class="image-holder">
-                                <b style="font-size: 30px;">4.0</b>
+                                <b style="font-size: 30px;">4.4</b>
                             </div>
                             <h3 class="service-card-heading">Rating</h3>
                         </a>
