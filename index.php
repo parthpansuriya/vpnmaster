@@ -115,7 +115,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-lg-6 banner-img">
-                    <img src="./img/slider-img1.png">
+                    <img src="./img/map.png">
                 </div>
             </div>
         </div>
