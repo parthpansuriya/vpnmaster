@@ -111,7 +111,7 @@
                     <div class="banner-inner-content">
                         <h4 class="banner-heading"><span>VPN Master</span> App</h4>
                         <p class="banner-text"> The best free & unlimited vpn tunnel for android to unblock sites, watch online video, bypass blocked apps, secure WiFi hotspots and browse privately & anonymously</p>                  
-                        <a href="https://play.google.com/store/apps/details?id=com.vpnmaster.free.proxy.unblock.ultravpn.vpnmaster&hl=en_IN" target="_blank" class="btn banner-btn">Install</a>
+                        <a href="https://play.google.com/store/apps/details?id=com.vpnmaster.free.proxy.unblock.ultravpn.vpnmaster" target="_blank" class="btn banner-btn">Install</a>
                     </div>
                 </div>
                 <div class="col-12 col-lg-6 banner-img">
@@ -275,7 +275,7 @@
                     <!-- <p class="sub-heading text-center">- Most flexible one page -</p> -->
                     <h3 class="heading text-center">Get Mobile App</h3>
                     <p class="detail-text text-center">Enjoy Power VPN (Free VPN Proxy) Service with unlimited speed and bandwidth for Lifetime. Now You Can Access Blocked Internet Content easily with just a click using Power VPN's Secure & Fast VPN Tunnels.</p>
-                    <a href="https://play.google.com/store/apps/details?id=com.vpnmaster.free.proxy.unblock.ultravpn.vpnmaster&hl=en_IN" target="_blank" class="get-app-btn"><i class="fa fa-android"></i>Google Play</a>
+                    <a href="https://play.google.com/store/apps/details?id=com.vpnmaster.free.proxy.unblock.ultravpn.vpnmaster" target="_blank" class="get-app-btn"><i class="fa fa-android"></i>Google Play</a>
                 </div>
             </div>
         </div>
