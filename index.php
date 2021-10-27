@@ -275,7 +275,7 @@
                     <!-- <p class="sub-heading text-center">- Most flexible one page -</p> -->
                     <h3 class="heading text-center">Get Mobile App</h3>
                     <p class="detail-text text-center">Enjoy Power VPN (Free VPN Proxy) Service with unlimited speed and bandwidth for Lifetime. Now You Can Access Blocked Internet Content easily with just a click using Power VPN's Secure & Fast VPN Tunnels.</p>
-                    <a href="https://play.google.com/store/apps/details?id=com.File.manager&hl=en_IN" target="_blank" class="get-app-btn"><i class="fa fa-android"></i>Google Play</a>
+                    <a href="https://play.google.com/store/apps/details?id=com.vpnmaster.free.proxy.unblock.ultravpn.vpnmaster&hl=en_IN" target="_blank" class="get-app-btn"><i class="fa fa-android"></i>Google Play</a>
                 </div>
             </div>
         </div>
