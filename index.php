@@ -111,7 +111,7 @@
                     <div class="banner-inner-content">
                         <h4 class="banner-heading"><span>VPN Master</span> App</h4>
                         <p class="banner-text"> The best free & unlimited vpn tunnel for android to unblock sites, watch online video, bypass blocked apps, secure WiFi hotspots and browse privately & anonymously</p>                  
-                        <a href="https://play.google.com/store/apps/details?id=com.File.manager&hl=en_IN" target="_blank" class="btn banner-btn">Install</a>
+                        <a href="https://play.google.com/store/apps/details?id=com.vpnmaster.free.proxy.unblock.ultravpn.vpnmaster&hl=en_IN" target="_blank" class="btn banner-btn">Install</a>
                     </div>
                 </div>
                 <div class="col-12 col-lg-6 banner-img">
