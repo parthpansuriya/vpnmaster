@@ -288,7 +288,7 @@
             <div class="row">
                 <div class="col-12 d-flex justify-content-center">
                     <div class="footer-icons d-flex">
-                        <a target="_blank" href="https://play.google.com/store/apps/developer?id=Prixel+Studio&hl=en_IN" class="wow fadeInUp"><i class="fa fa-copyright"></i> All Rights is reserved by <b style="margin-left: 5px;margin-top: 0px;"> Prixel Studio</b></a>
+                        <a target="_blank" href="https://play.google.com/store/apps/developer?id=Prixel+Studio" class="wow fadeInUp"><i class="fa fa-copyright"></i> All Rights is reserved by <b style="margin-left: 5px;margin-top: 0px;"> Prixel Studio</b></a>
                     </div>
                 </div>
             </div>
