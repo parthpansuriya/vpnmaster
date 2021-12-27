@@ -1,0 +1,9 @@
+User-agent: *
+
+Allow: /  
+
+Allow only Google crawler bots :
+
+User-agent: Mediapartners-Google
+
+Allow: /
