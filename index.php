@@ -11,7 +11,7 @@
         <!-- keywords -->
         <meta name="keywords" content="creative, modern, clean, bootstrap responsive, html5, css3, portfolio, blog, agency, templates, multipurpose, one page, corporate, start-up, studio, branding, designer, freelancer, carousel, parallax, photography, personal, masonry, grid, faq">
         <!-- Page Title -->
-        <title>M Squre - Build The Best Application</title>
+        <title>M SQUARE - Build The Best Application</title>
         <!-- Favicon -->
         <link rel="icon" href="./img/favicon.png">
         <!--css links-->
