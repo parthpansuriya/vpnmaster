@@ -38,7 +38,7 @@
         <div class="container">
         <div class="top-navigation">
             <nav class="navbar navbar-expand-lg nav-up">
-                <a class="navbar-brand" href="#"><img src="./img/logo.png" alt="logo"/></a>
+                <title>M Squre</title>
 
                 <div class="collapse navbar-collapse d-none d-lg-block" id="navbarNav">
                     <ul class="navbar-nav horizontal-nav ml-auto">
